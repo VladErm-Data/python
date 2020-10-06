@@ -1,0 +1,3 @@
+Vova    15
+Vasya   20000
+Petya   11
